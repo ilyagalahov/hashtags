@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Умные Хэштеги</string>
+    <string name="edit_message">Введите сообщение</string>
+    <string name="button_send">Сделать фото</string>
+    <string name="hello_blank_fragment">Привет!</string>
+    <string name="name_field">Имя</string>
+</resources>

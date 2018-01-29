@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inteligente Hashtags</string>
+    <string name="edit_message">Ingrese un mensaje</string>
+    <string name="button_send">Tomar foto</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="name_field">Nombre</string>
+</resources>
